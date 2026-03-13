@@ -1,6 +1,7 @@
 {
   "devices": [
-    "80292551001078"
+    "80292551001079",
+    
   ],
   "packages": [
     "com.example.posdemo"
